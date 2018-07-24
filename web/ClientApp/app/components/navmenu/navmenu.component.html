@@ -1,0 +1,9 @@
+
+<div class="topnav" id="myTopnav">
+    <a href="">Home</a>
+    <a href="login">Login</a> <!--*ngIf="!this.auth.loggedIn()" -->
+    <a href="deals">Deals</a>  <!--//*ngIf="this.auth.loggedIn()"-->
+    <a href="vars">Vars</a>    <!--*ngIf="this.auth.loggedIn()"-->
+    <a href="">Logout</a>      <!--*ngIf="this.auth.loggedIn()"href="" (click)="logoff()""-->
+    <div> Hi User</div>        <!--class="" *ngIf="this.auth.loggedIn()-->
+</div>

@@ -1,0 +1,16 @@
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.json
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.dev.json
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.csproj.CopyComplete
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Web\Catrina\Data\obj\Debug\netcoreapp2.0\Data.pdb
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Web\Catrina\Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
